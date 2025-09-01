@@ -38,23 +38,22 @@ By completing these tasks, you will learn:
    ```
    task/
    ├── _models/
-   │   ├── conversation.py          # ✅ Complete
-   │   ├── message.py               # ✅ Complete  
-   │   ├── role.py                  # ✅ Complete
-   │   └── custom_content.py        # ✅ Complete
+   │   ├── conversation.py          ✅ Complete
+   │   ├── message.py               ✅ Complete  
+   │   ├── role.py                  ✅ Complete
+   │   └── custom_content.py        ✅ Complete
    ├── _utils/
-   │   ├── model_client.py          # ✅ Complete
-   │   ├── bucket_client.py         # ✅ Complete
-   │   ├── constants.py             # ✅ Complete
-   │   └── request.py               # ✅ Complete
+   │   ├── model_client.py          ✅ Complete
+   │   ├── bucket_client.py         ✅ Complete
+   │   ├── constants.py             ✅ Complete
+   │   └── request.py               ✅ Complete
    ├── image_to_text/
    │   ├── openai/
-   │   │   ├── message.py           # ✅ Complete
-   │   │   └── task_openai_itt.py   # 🚧 TODO
-   │   └── task_dial_itt.py         # 🚧 TODO
+   │   │   ├── message.py           ✅ Complete
+   │   │   └── task_openai_itt.py   🚧 TODO
+   │   └── task_dial_itt.py         🚧 TODO
    └── text_to_image/
-       └── task_tti.py              # 🚧 TODO
-   dialx-banner.png                 # 📁 Sample image
+       └── task_tti.py              🚧 TODO
    ```
 
 ---
