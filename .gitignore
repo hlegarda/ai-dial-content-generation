@@ -39,6 +39,7 @@ generated_*.png
 # IDE and editors
 .idea/
 .vscode/
+.cursor/
 *.swp
 *.swo
 *~
